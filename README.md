@@ -23,27 +23,11 @@ A full-stack macroeconomic data dashboard that visualizes economic indicators an
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Skills
 
-**Languages**
-
-Python • TypeScript • JavaScript • SQL • C
-
-**Frontend**
-
-React • Next.js • TailwindCSS • Vite
-
-**Backend**
-
-FastAPI • Node.js • PostgreSQL • Supabase
-
-**Data / ML**
-
-NumPy • Pandas • Scikit-learn
-
-**Tools**
-
-Git • Docker • AWS • Vercel • Render
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,postgres,tailwind,docker,aws,git" />
+</p>
 
 ---
 
