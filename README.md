@@ -9,16 +9,16 @@ My projects range from **sports analytics platforms** to **music technology tool
 
 ## 🚀 Currently Building
 
-### ⚡ Shown Space
+### ⚡ [Shown Space](https://shownspace.com)
 Ultimate Frisbee analytics platform that processes large-scale event data to generate insights for teams and players.
 
-### 🎧 Sample 8
+### 🎧 [Sample 8](https://sample8.space)
 A music production knowledge platform where users can explore songs through timestamped production techniques and discuss how sounds are created.
 
 ### 📸 Clipped
 An accountability-based study app that discourages distractions by detecting when users leave study sessions.
 
-### 📊 MacroBoard
+### 📊 [MacroBoard](https://macroboard.org)
 A full-stack macroeconomic data dashboard that visualizes economic indicators and generates AI-powered insights.
 
 ---
