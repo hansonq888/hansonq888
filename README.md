@@ -25,9 +25,14 @@ A full-stack macroeconomic data dashboard that visualizes economic indicators an
 
 ## 🛠 Skills
 
+## 🛠 Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,postgres,tailwind,docker,aws,git" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,c,cpp,react,nextjs,nodejs,flask,fastapi,tailwind,postgres,aws,linux,git" />
 </p>
+
+Libraries: Pandas • NumPy  
+Concepts: REST APIs • CI/CD
 
 ---
 
