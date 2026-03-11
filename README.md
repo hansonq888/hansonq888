@@ -41,13 +41,11 @@ A full-stack macroeconomic data dashboard that visualizes economic indicators an
 
 ---
 
-## 📫 Connect
+## 📫 Connect with me
 
-<p>
-<a href="mailto:hansonq888@gmail.com">📧 hansonq888@gmail.com</a><br>
-<a href="https://hansonqin.com">🌐 hansonqin.com</a><br>
-<a href="https://www.linkedin.com/in/hanson-q/">💼 LinkedIn</a>
-</p>
+- 📧 **Email:** [hansonq888@gmail.com](mailto:hansonq888@gmail.com)
+- 🌐 **Website:** [hansonqin.com](https://hansonqin.com)
+- 💼 **LinkedIn:** [linkedin.com/in/hanson-q](https://www.linkedin.com/in/hanson-q/)
 <!--
 **hansonq888/hansonq888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
