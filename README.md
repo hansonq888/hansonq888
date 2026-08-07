@@ -26,7 +26,7 @@ A full-stack macroeconomic data dashboard that visualizes economic indicators an
 ## 🛠 Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,c,cpp,react,nextjs,nodejs,flask,fastapi,tailwind,postgres,aws,linux,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,kotlin,java,c,cpp,react,nextjs,nodejs,flask,fastapi,tailwind,postgres,aws,linux,git&perline=8" />
 </p>
 
 ---
