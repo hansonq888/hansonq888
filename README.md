@@ -22,13 +22,10 @@ An accountability-based study app that discourages distractions by detecting whe
 A full-stack macroeconomic data dashboard that visualizes economic indicators and generates AI-powered insights.
 
 ---
-
 ## 🛠 Skills
-
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,kotlin,java,c,cpp,react,nextjs,nodejs,flask,fastapi,tailwind,postgres,aws,linux,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,kotlin,java,c,cpp,react,nextjs,nodejs,flask,fastapi,tailwind,postgres,aws,linux,git,redis,docker,firebase,vercel,supabase&perline=8" />
 </p>
-
 ---
 
 ## 📌 Interests
