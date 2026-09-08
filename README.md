@@ -6,17 +6,6 @@ Prev SWE Intern @ Kira Learning
 
 Working on Shown Space ([@shownspace.com](https://shownspace.com/))
 
----
-
-## 🛠 Skills
-
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,kotlin,java,c,cpp,react,nextjs,nodejs,flask,fastapi,tailwind,postgres,aws,linux,git,redis,docker,firebase,vercel,supabase&perline=8" />
-</p>
-
----
-
-## 📫 Connect
 
 <p>
   <a href="https://hansonqin.com">
@@ -28,4 +17,13 @@ Working on Shown Space ([@shownspace.com](https://shownspace.com/))
   <a href="mailto:hansonq888@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+
+---
+
+## 🛠 Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,kotlin,java,c,cpp,react,nextjs,nodejs,flask,fastapi,tailwind,postgres,aws,linux,git,redis,docker,firebase,vercel,supabase&perline=8" />
 </p>
