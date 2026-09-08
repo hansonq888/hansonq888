@@ -1,6 +1,10 @@
 # Hi, I'm Hanson Qin 👋
 
-Computer Science & Mathematics student at **Yale University**.
+Computer Science & Mathematics student at Yale.
+
+Prev SWE Intern @ Kira Learning
+
+Working on Shown Space (@shownspace.com)
 
 ---
 
