@@ -4,7 +4,7 @@ Computer Science & Mathematics student at Yale.
 
 Prev SWE Intern @ Kira Learning
 
-Working on Shown Space (@shownspace.com)
+Working on Shown Space ([@shownspace.com](https://shownspace.com/))
 
 ---
 
